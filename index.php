@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Welcome to DevOps on AWS! This is a test by Sid. Changes made in development branch</title>
+	<title>Welcome to DevOps on AWS! This is a test by Sid. Changes made in development branch.This will be published.</title>
 </head>
 <body>
 	<?php 
